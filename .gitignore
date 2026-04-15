@@ -3,4 +3,4 @@
 *.log
 tmp/
 .git
-.custom.el
+custom.el
