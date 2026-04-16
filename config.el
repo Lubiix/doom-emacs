@@ -141,3 +141,5 @@
         org-modern-list '((?* . "•")
                           (?+ . "‣")
                           (?- . "–"))))
+;; Démarrage full screen F11
+(add-to-list 'default-frame-alist ' (fullscreen . fullboth))
